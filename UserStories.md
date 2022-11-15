@@ -22,40 +22,50 @@
 </li>
 
 <li>As a recipe conisseur, I want to be create a menu webpage, so that it allows them to select 7 different recipes to make in a week.</br>
-
+2 Weeks
 </li>
 
 <li>As a shopper, I want to find a recipe containing a specific ingredient.</br>
-
+1 Weeks
 </li>
+
 <li>As a shopper, I want my ingredients to convert into the common measurements found in the store. (i.e. measure in sticks of butter)</br>
-
+2 Weeks
 </li>
-<li>As someone with dietary restrictions, I want to be able to substitute ingredients on my grocery list with comparable ones.</br>
 
-</li>
 <li>As a customer, I want to be able to scale the recipes, so that I don't have an excess of leftovers and feed everyone adequetly. </br>
-
+1 Weeks
 </li>
+
 <li>As a Database Administrator, I want a database with documentation so that we have persistent data. </br>
-
+2 Weeks
 </li>
+
 <li>As a customer, I want to be able to create/login to an account to view and store recipes.(-?)</br>
-
+4 Weeks
 </li>
+
 <li>As a customer, I want to be able to print the recipes and grocery list. (-?)</br>
-
+2 Weeks
 </li>
-<li>As a customer, I want to be able to review recipes, so that people can have a better idea what the recipe is like. (-?)</br>
 
+<li>As a customer, I want to be able to review recipes, so that people can have a better idea what the recipe is like. (--); dependent on accounts</br>
+4 Weeks
 </li>
+
 <li>As a customer with allergies, I want to be able to see recipes without certain ingredients so that I do not have to see recipes that I am allergic to. (-?)</br>
-
+1 Week
 </li>
+
 <li>As a customer following a diet, I would like to be able to save my weekly/monthly diet so that I can access it without searching for each of them again. (-?)</br>
-
+2 Weeks
 </li>
-<li>As a customer, I want to see nutritional information of the recipes. (--) </br>
 
+<li>As a customer, I want to see nutritional information of the recipes. (--) </br>
+1 week
+</li>
+
+<li>As someone with dietary restrictions, I want to be able to substitute ingredients on my grocery list with comparable ones. (--)</br>
+4 Weeks
 </li>
 </ol>
