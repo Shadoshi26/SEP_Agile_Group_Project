@@ -25,9 +25,6 @@
 
 </li>
 
-<li>As a customer, I want to be able to create/login to an account to view and store recipes.(-?)</br>
-
-</li>
 <li>As a shopper, I want to find a recipe containing a specific ingredient.</br>
 
 </li>
@@ -41,6 +38,9 @@
 
 </li>
 <li>As a Database Administrator, I want a database with documentation so that we have persistent data. </br>
+
+</li>
+<li>As a customer, I want to be able to create/login to an account to view and store recipes.(-?)</br>
 
 </li>
 <li>As a customer, I want to be able to print the recipes and grocery list. (-?)</br>
