@@ -1,5 +1,6 @@
 <h1>User Stories</h1>
 <p>As a shopper, I want to be able to select a recipe and add the necessary ingredients to a printable shopping list, so that I know the ingredients that are needed to make the selected recipes.</p>
+<h2>(--): We definitely don't need it. (-?): We might not need it. </h2>
 <p>As a website developer, I want to have the website display 7 different recipes as a quick recommendation.</p>
 <p>As a customer, I want to see nutritional information of the recipes. (--)</p>
 <p>As a website developer, I want to include the ability to add a new recipe to the recipe list, so that viewers can check out the newly added recipes on the website.</p>
@@ -14,3 +15,5 @@
 <p>As a customer following a diet, I would like to be able to save my weekly/monthly diet so that I can access it without searching for each of them again. (-?)</p>
 <p>As someone with dietary restrictions, I want to be able to substitute ingredients on my grocery list with comparable ones.</p>
 <p>As a customer, I want to be able to review recipes, so that people can have a better idea what the recipe is like. (-?)</p>
+<p> As a customer, I want to be able to scale the recipes, so that I don't have an excess of leftovers and feed everyone adequetly. </p>
+<p>As a Database Administrator, I want a database with documentation so that we have persistent data. </p>
