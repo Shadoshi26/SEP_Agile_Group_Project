@@ -1,6 +1,6 @@
 <h1>User Stories</h1>
 <h2>(--): We definitely don't need it. (-?): We might not need it. </h2>
-<p>As a shopper, I want to be able to select a recipe and add the necessary ingredients to a printable shopping list, so that I know the ingredients that are needed to make the selected recipes.</p>
+<p>0.)As a shopper, I want to be able to select a recipe and add the necessary ingredients to a printable shopping list, so that I know the ingredients that are needed to make the selected recipes.</p>
 <p>1.) As a website developer, I want to have the website display 7 different recipes as a quick recommendation.</p>
 <p>2.) As a customer, I want to see nutritional information of the recipes. (--)</p>
 <p>3.) As a website developer, I want to include the ability to add a new recipe to the recipe list, so that viewers can check out the newly added recipes on the website.</p>
