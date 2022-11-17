@@ -1,4 +1,6 @@
-
+Stephen Stories 11 (Db admin), 4 (add ingredients) - total 3 weeks 
+	11 Confirmation: Having a document for UML and Db descriptions
+	4 Confirmation: Running line and showing db got larger
 Nathaniel - Stories 7 (selecting recipes) and 8 (Searching ingredients) - total 3 weeks
   7 Confirmation: Being able to add up to 7 recipes in a week to a calandar
   8 Confirmation: Be able to find all recepies containing a specified ingredient
