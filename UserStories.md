@@ -5,7 +5,7 @@
 4 Weeks (split)
 <ul>
 <li>As a shopper, I want to be able to add the necessary ingredients to a shopping list.</li> </br>
-1 Week
+2 Week
 <li>As a shopper, I want to be able to print my shopping list.</li> </br>
 2 Weeks
 </ul>
