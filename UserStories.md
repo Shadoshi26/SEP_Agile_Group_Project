@@ -3,6 +3,12 @@
 <ol>
 <li>As a shopper, I want to be able to select a recipe and add the necessary ingredients to a printable shopping list, so that I know the ingredients that are needed to make the selected recipes. </br>
 4 Weeks (split)
+<ul>
+<li>As a shopper, I want to be able to add the necessary ingredients to a shopping list.</li> </br>
+1 Week
+<li>As a shopper, I want to be able to print my shopping list.</li> </br>
+2 Weeks
+</ul>
 </li>
 
 <li>As a website developer, I want to have the website display 7 different recipes as a quick recommendation.</br>
@@ -12,8 +18,16 @@
 <li>As a website developer, I want to include the ability to add a new recipe to the recipe list, so that viewers can check out the newly added recipes on the website.</br>
 4 Weeks
 </li>
+<ul>
+<li>As a website developer, I want to include the ability to add new recipes to the list.</li> </br>
+2 weeks
+<li>As a customer, I want to be able to check out newly added recipes on the website.</li> </br>
+2 weeks
+</ul>
+<li>As a website developer, I want to be able to add ingredients to the list.</li> </br>
+1 week
 
-<li>As a customer, I would like to remove items I already had from a recipe before converting it to a grocery list to avoid buying stuff I have already had.</br>
+<li>As a customer, I would like to remove items I already had from a recipe before converting it to a shopping list to avoid buying stuff I have already had.</br>
 1 Week
 </li>
 
@@ -45,7 +59,7 @@
 4 Weeks
 </li>
 
-<li>As a customer, I want to be able to print the recipes and grocery list. (-?)</br>
+<li>As a customer, I want to be able to print the recipes and shopping list. (-?)</br>
 2 Weeks
 </li>
 
@@ -65,7 +79,7 @@
 1 week
 </li>
 
-<li>As someone with dietary restrictions, I want to be able to substitute ingredients on my grocery list with comparable ones. (--)</br>
+<li>As someone with dietary restrictions, I want to be able to substitute ingredients on my shopping list with comparable ones. (--)</br>
 4 Weeks
 </li>
 </ol>
