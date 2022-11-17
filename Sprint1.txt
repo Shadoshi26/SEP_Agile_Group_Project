@@ -1,2 +1,4 @@
 
 Liv - stories 9 (conversion) and 10 (scaling) - total 3 weeks
+  9 Confirmation: ingredients both combine and simplify to store quantities
+  10 Confirmaiton: recipes are scaled (correctly) upon request
