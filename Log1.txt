@@ -3,9 +3,9 @@ Liv:
   2. Do: figure out how to begin to implement user stories
   3. Blockers: where tho?
 Nathan:
-  1. Did:
-  2. Do:
-  3. Blockers:
+  1. Did: chose user stories, wrote confirmation requirements
+  2. Do: figure out how to begin to implement user stories
+  3. Blockers: Find out where we code (also have to write multiple essays and finish multiple projects)
 An:
   1. Did: Chose user stories and wrote confirmations.
   2. Do: Work on user story 6 first. By next tuesday, I should have at least 70% of the user story done.
