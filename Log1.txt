@@ -7,9 +7,9 @@ Nathan:
   2. Do:
   3. Blockers:
 An:
-  1. Did:
-  2. Do:
-  3. Blockers:
+  1. Did: Chose user stories and wrote confirmations.
+  2. Do: Work on user story 6 first. By next tuesday, I should have at least 70% of the user story done.
+  3. Blockers: 	I'm having a lot of tests and projects before and right after thanksgiving and I'm sick
 Hunter:
   1. Did:
   2. Do:
