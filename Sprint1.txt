@@ -5,3 +5,13 @@ Nathaniel - Stories 7 (selecting recipes) and 8 (Searching ingredients) - total 
 Liv - stories 9 (conversion) and 10 (scaling) - total 3 weeks
   9 Confirmation: ingredients both combine and simplify to store quantities
   10 Confirmaiton: recipes are scaled (correctly) upon request
+Trinh Hong An
+User Story 2: As a website developer, I want to have the website display 7 different recipes as a quick recommendation.
+		Estimated time: 2 weeks
+		Confirmation: As the customer connected to the website, they should be able to see 7 random recipes and they
+		should be different from the 7 random recipes previously.
+User Story 6: As a customer who likes to try different cuisines, I would like to be able to search through different sections 
+(each section being mexican, etc.) to find recipes of different cuisines more easily.
+		Estimated time: 1 week
+		Confirmation: There should be sections buttons in the website to direct user to specific 
+		category of recipes. There should be correct recipes of specific category in one section.
