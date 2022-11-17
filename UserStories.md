@@ -35,7 +35,7 @@
 1 Week
 </li>
 
-<li>As a recipe conisseur, I want to be create a menu webpage, so that it allows them to select 7 different recipes to make in a week.</br>
+<li>As a recipe conisseur, I want to be create a menu webpage, so that it allows me to select up to 7 different recipes to make in a week.</br>
 2 Weeks
 </li>
 
