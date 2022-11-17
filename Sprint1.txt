@@ -1,9 +1,7 @@
-Stephen
-  User Stories (11, 4) total of 3 weeks
-  Confirmations:
-      11:
-      4: 
-Nathaniel - Stories 7 (selecting recipies) and 8 (Searching ingredients) - total 3 weeks
+
+Nathaniel - Stories 7 (selecting recipes) and 8 (Searching ingredients) - total 3 weeks
+  7 Confirmation: Being able to add up to 7 recipes in a week to a calandar
+  8 Confirmation: Be able to find all recepies containing a specified ingredient
 Liv - stories 9 (conversion) and 10 (scaling) - total 3 weeks
   9 Confirmation: ingredients both combine and simplify to store quantities
   10 Confirmaiton: recipes are scaled (correctly) upon request
