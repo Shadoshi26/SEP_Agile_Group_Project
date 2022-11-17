@@ -1,0 +1,20 @@
+Liv:
+  1. Did: chose user stories, wrote confirmation requirements
+  2. Do: figure out how to begin to implement user stories
+  3. Blockers: where tho?
+Nathan:
+  1. Did:
+  2. Do:
+  3. Blockers:
+An:
+  1. Did:
+  2. Do:
+  3. Blockers:
+Hunter:
+  1. Did:
+  2. Do:
+  3. Blockers:
+Stephen:
+  1. Did:
+  2. Do:
+  3. Blockers:
