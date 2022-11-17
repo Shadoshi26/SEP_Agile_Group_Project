@@ -1,4 +1,8 @@
-
+Stephen
+  User Stories (11, 4) total of 3 weeks
+  Confirmations:
+      11:
+      4: 
 Nathaniel - Stories 7 (selecting recipies) and 8 (Searching ingredients) - total 3 weeks
 Liv - stories 9 (conversion) and 10 (scaling) - total 3 weeks
   9 Confirmation: ingredients both combine and simplify to store quantities
